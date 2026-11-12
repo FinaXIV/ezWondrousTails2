@@ -2,19 +2,19 @@
   {
     "Author": "daemitus, MidoriKami, FinaXIV",
     "Name": "ezWondrousTails2",
-    "InternalName": "WondrousTailsSolver2",
+    "InternalName": "WondrousTailsSolver",
     "AssemblyVersion": "3.2.3.0",
     "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/FinaXIV/WondrousTailsSolver2.",
+    "RepoUrl": "https://github.com/FinaXIV/WondrousTailsSolver2",
     "Tags": ["wondrous tails"],
     "DalamudApiLevel": 15,
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/FinaXIV/WondrousTailsSolver2./releases/download/v3.2.3.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/FinaXIV/WondrousTailsSolver2./releases/download/v3.2.3.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/FinaXIV/WondrousTailsSolver2./releases/download/v3.2.3.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/FinaXIV/WondrousTailsSolver2/releases/download/v3.2.3.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/FinaXIV/WondrousTailsSolver2/releases/download/v3.2.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/FinaXIV/WondrousTailsSolver2/releases/download/v3.2.3.0/latest.zip"
   }
 ]
