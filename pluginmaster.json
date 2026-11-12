@@ -3,7 +3,7 @@
     "Author": "daemitus, MidoriKami, FinaXIV",
     "Name": "ezWondrousTails2",
     "InternalName": "EzWondrousTails2",
-    "AssemblyVersion": "3.2.4.0",
+    "AssemblyVersion": "3.2.4.1",
     "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled. Updated fork of ezWondrousTails by daemitus and MidoriKami.",
     "Punchline": "Adds row probabilities to the Wondrous Tails display.",
     "ApplicableVersion": "any",
@@ -15,8 +15,8 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/FinaXIV/ezWondrousTails2/releases/download/v3.2.4.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/FinaXIV/ezWondrousTails2/releases/download/v3.2.4.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/FinaXIV/ezWondrousTails2/releases/download/v3.2.4.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/FinaXIV/ezWondrousTails2/releases/download/v3.2.4.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/FinaXIV/ezWondrousTails2/releases/download/v3.2.4.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/FinaXIV/ezWondrousTails2/releases/download/v3.2.4.1/latest.zip"
   }
 ]
